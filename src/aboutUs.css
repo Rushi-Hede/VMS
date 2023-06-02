@@ -1,0 +1,39 @@
+/* aboutUs.css */
+.aboutUsContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    margin-top: 35px;
+  }
+  
+  @media (min-width: 600px) {
+    .aboutUsContainer {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+  }
+  
+  .textContainer {
+    flex: 1;
+  }
+  
+  .imageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 16px;
+  }
+  
+  .imageContainer img {
+    margin-bottom: 8px;
+  }
+  
+  @media (min-width: 600px) {
+    .imageContainer {
+      margin-top: 0;
+      margin-left: 32px;
+      align-items: flex-end;
+    }
+  }
+  

@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "name": "chris evans",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 3
+    },
+    {
+      "name": "rushikeshh",
+      "email": "rushikeshh@cybage.com",
+      "gender": "male",
+      "occupation": "Emp",
+      "id": 5
+    },
+    {
+      "name": "kanha",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 6
+    },
+    {
+      "name": "v777",
+      "email": "v1@gmail.com",
+      "gender": "female",
+      "occupation": "work",
+      "id": 7
+    },
+    {
+      "name": "rushi888",
+      "email": "rushikeshh@cybage.com",
+      "gender": "male",
+      "occupation": "Emp",
+      "id": 8
+    },
+    {
+      "name": "d999",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 9
+    },
+    {
+      "name": "ffff100",
+      "email": "hhhhh",
+      "gender": "rfgfdgf",
+      "occupation": "emp",
+      "id": 10
+    },
+    {
+      "name": "Ram",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 11
+    },
+    {
+      "name": "Kiran",
+      "email": "hhhhh",
+      "gender": "rfgfdgf",
+      "occupation": "emp",
+      "id": 12
+    },
+    {
+      "name": "Deepak",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 13
+    },
+    {
+      "name": "Shubham",
+      "email": "hhhhh",
+      "gender": "rfgfdgf",
+      "occupation": "emp",
+      "id": 14
+    },
+    {
+      "name": "Saurabh",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 15
+    },
+    {
+      "name": "Mahesh",
+      "email": "hhhhh",
+      "gender": "rfgfdgf",
+      "occupation": "emp",
+      "id": 16
+    },
+    {
+      "name": "Ashitosh",
+      "email": "ash@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 17
+    },
+    {
+      "name": "Niraj",
+      "email": "nii@gmail.com",
+      "gender": "male",
+      "occupation": "player",
+      "id": 18
+    }
+  ]
+}
