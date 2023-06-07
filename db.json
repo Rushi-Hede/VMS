@@ -1,0 +1,165 @@
+{
+  "visitors": [
+    {
+      "name": "chris evans",
+      "email": "chris@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 3
+    },
+    {
+      "name": "rushikeshh",
+      "email": "rushikeshh@cybage.com",
+      "gender": "male",
+      "occupation": "Emp",
+      "id": 5
+    },
+    {
+      "name": "kanha",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 6
+    },
+    {
+      "name": "vishal",
+      "email": "v1@gmail.com",
+      "gender": "female",
+      "occupation": "work",
+      "id": 7
+    },
+    {
+      "name": "Rahul",
+      "email": "skitt@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 10
+    },
+    {
+      "name": "Ram Agasti",
+      "email": "agsti@gmail.com",
+      "gender": "male",
+      "occupation": "vendor",
+      "id": 11
+    },
+    {
+      "name": "Kiran Bansare",
+      "email": "skiran@gmail.com",
+      "gender": "female",
+      "occupation": "emp",
+      "id": 12
+    },
+    {
+      "name": "Deepak Chauvan",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 13
+    },
+    {
+      "name": "Shubham Waghmare",
+      "email": "skwgh123@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 14
+    },
+    {
+      "name": "Saurabh Dhumal",
+      "email": "jacob@gmail.com",
+      "gender": "male",
+      "occupation": "work",
+      "id": 15
+    },
+    {
+      "name": "Mahesh",
+      "email": "mahesh12@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 16
+    },
+    {
+      "name": "Ashitosh",
+      "email": "ash@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 17
+    },
+    {
+      "name": "Niraj",
+      "email": "nii@gmail.com",
+      "gender": "male",
+      "occupation": "player",
+      "id": 18
+    },
+    {
+      "name": "jitu ",
+      "email": "jitu@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 19
+    },
+    {
+      "name": "Akshit",
+      "email": "ash@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 20
+    },
+    {
+      "name": "Sham Lokhandwala",
+      "email": "nii@gmail.com",
+      "gender": "male",
+      "occupation": "student",
+      "id": 21
+    },
+    {
+      "name": "Rakesh sharma",
+      "email": "rks11@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 22
+    },
+    {
+      "name": "Arun Singh",
+      "email": "ar4@gmail.com",
+      "gender": "male",
+      "occupation": "student",
+      "id": 23
+    },
+    {
+      "name": "Nilima Seth",
+      "email": "nili34@gmail.com",
+      "gender": "female",
+      "occupation": "emp",
+      "id": 24
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan1@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 25
+    },
+    {
+      "name": "srujan",
+      "email": "sru@gmail.com",
+      "gender": "male",
+      "occupation": "student",
+      "id": 26
+    },
+    {
+      "name": "Manish patil",
+      "email": "manpa122@gmail.com",
+      "gender": "male",
+      "occupation": "Student",
+      "id": 27
+    },
+    {
+      "name": "Virat Kohali",
+      "email": "vk334@gmail.com",
+      "gender": "male",
+      "occupation": "emp",
+      "id": 28
+    }
+  ]
+}
